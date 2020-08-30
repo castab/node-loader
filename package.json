@@ -1,0 +1,12 @@
+{
+  "name": "node-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brayan Castaneda <32408642+castab@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-retry": "^3.1.8",
+    "cli-progress": "^3.8.2"
+  }
+}
